@@ -1,0 +1,5 @@
+{
+  "name": "Auto Quiz Generator",
+  "description": "An intelligent web application that automatically generates multiple-choice and true/false quizzes from uploaded text and PDF documents using the Gemini API.",
+  "requestFramePermissions": []
+}
